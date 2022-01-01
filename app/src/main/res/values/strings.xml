@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1_2</string>
+    <string name="msg">By proceeding you agree to our <b> terms of services</b> and <b>Privacy Policies</b></string>
+
+
+    <string name="connect_to_school">Connect to School</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="register">REGISTER</string>
+    <string name="create_a_new_account">Create a new Account</string>
+    <string name="image">IMAGE</string>
+    <string name="last">an <b>e-Teaching</b> service from school</string>
+</resources>
